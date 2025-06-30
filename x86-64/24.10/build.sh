@@ -26,7 +26,7 @@ echo "$(date '+%Y-%m-%d %H:%M:%S') - 开始编译..."
 PACKAGES=""
 PACKAGES="$PACKAGES curl"
 PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-filebrowser-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-filebrowser-go-zh-cn"
 PACKAGES="$PACKAGES luci-theme-argon"
 #24.10 opkg改为package-manager
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
