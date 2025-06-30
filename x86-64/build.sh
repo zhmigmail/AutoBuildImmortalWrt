@@ -27,8 +27,6 @@ PACKAGES=""
 PACKAGES="$PACKAGES curl"
 PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-filebrowser-zh-cn"
-PACKAGES="$PACKAGES luci-app-dufs"
-PACKAGES="$PACKAGES luci-app-fileassistant"
 PACKAGES="$PACKAGES luci-theme-argon"
 # 23.05 luci-i18n-opkg-zh-cn
 PACKAGES="$PACKAGES luci-i18n-opkg-zh-cn"
